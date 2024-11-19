@@ -1,0 +1,22 @@
+INFO 2024-11-19 06:53:31,753 students Student profile created for user t_rustem
+INFO 2024-11-19 07:12:39,603 students Student profile created for student Nurdaulet Khabibullin
+INFO 2024-11-19 07:14:12,668 students Student profile created for user yernur
+
+INFO 2024-11-19 07:31:47,491 students Student profile created for student Nurdaulet Khabibullin
+INFO 2024-11-19 09:31:24,180 students Student profile created for student Nurdaulet Khabibullin
+WARNING 2024-11-19 09:35:42,028 students Attempt to create duplicate student profile for user yernur
+WARNING 2024-11-19 09:36:09,944 students Attempt to create duplicate student profile for user yernur
+WARNING 2024-11-19 09:38:57,397 students Attempt to create duplicate student profile for user yernur
+WARNING 2024-11-19 09:40:54,185 students Attempt to create duplicate student profile for user yernur
+WARNING 2024-11-19 09:42:18,639 students Attempt to create duplicate student profile for user Nurdaulet Khabibullin
+WARNING 2024-11-19 09:44:18,020 students Attempt to create duplicate student profile for user Ali Temirzhanov
+ERROR 2024-11-19 10:04:05,520 students No user provided to create a student profile.
+ERROR 2024-11-19 10:07:43,438 students No user provided to create a student profile.
+ERROR 2024-11-19 10:07:54,226 students No user provided to create a student profile.
+ERROR 2024-11-19 10:07:59,069 students No user provided to create a student profile.
+ERROR 2024-11-19 10:08:02,249 students No user provided to create a student profile.
+ERROR 2024-11-19 10:13:16,848 students No user provided to create a student profile.
+ERROR 2024-11-19 10:13:22,504 students No user provided to create a student profile.
+INFO 2024-11-19 10:25:48,965 students Student profile created for student Ali Temirzhanov
+INFO 2024-11-19 23:42:03,948 students Student profile updated for student Akzhol Tasbay by user t_akzhol
+INFO 2024-11-20 00:03:34,827 students Student profile updated for student Akzhol Tassay by user t_akzhol
