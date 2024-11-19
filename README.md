@@ -11,10 +11,12 @@ This project is a comprehensive student management system built with Django and 
 
 ## To Start Celery Workers and Beat:
 celery -A studentmanagementsystem worker -l info
+
 celery -A studentmanagementsystem beat -l info
 
 ## To Start Redis
 Redis is required for Celery to function correctly. To start Redis, use the following command (on Linux/Unix systems):
+
 /usr/bin/redis-server
 
 ## To Start Unit Test
